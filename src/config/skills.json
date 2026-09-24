@@ -1,0 +1,92 @@
+{
+  "intro": "A categorized breakdown of the systems I operate. Levels represent hands-on depth, calibrated as processing capacity.",
+  "categories": [
+    {
+      "name": "Frontend",
+      "icon": "Code2",
+      "skills": [
+        { "name": "Angular (v8+)", "level": 95 },
+        { "name": "React (Hooks, Context)", "level": 90 },
+        { "name": "TypeScript", "level": 92 },
+        { "name": "JavaScript (ES6+)", "level": 93 },
+        { "name": "RxJS", "level": 85 },
+        { "name": "HTML5 / CSS3 / SCSS", "level": 90 },
+        { "name": "Angular Material / Material UI", "level": 88 },
+        { "name": "Responsive Design", "level": 90 }
+      ]
+    },
+    {
+      "name": "Architecture & Performance",
+      "icon": "Layers",
+      "skills": [
+        { "name": "Micro-frontend-ready Modular Design", "level": 88 },
+        { "name": "Reusable Component Libraries", "level": 92 },
+        { "name": "Lazy Loading & Code Splitting", "level": 90 },
+        { "name": "State Management", "level": 88 },
+        { "name": "Web Performance Optimization", "level": 90 },
+        { "name": "Lighthouse / Chrome DevTools", "level": 88 }
+      ]
+    },
+    {
+      "name": "Backend & Databases",
+      "icon": "Server",
+      "skills": [
+        { "name": "Node.js", "level": 82 },
+        { "name": "Express.js", "level": 80 },
+        { "name": "REST APIs", "level": 88 },
+        { "name": "WebSocket", "level": 85 },
+        { "name": "RabbitMQ", "level": 75 },
+        { "name": "PostgreSQL / MySQL", "level": 78 },
+        { "name": "Firebase", "level": 80 }
+      ]
+    },
+    {
+      "name": "AI & Integrations",
+      "icon": "Sparkles",
+      "skills": [
+        { "name": "GenAI / LLM-powered UI Workflows", "level": 85 },
+        { "name": "Quill / TinyMCE", "level": 88 },
+        { "name": "Chart.js / ngx-graph", "level": 82 },
+        { "name": "MS Office Add-ins (Yeoman)", "level": 84 }
+      ]
+    },
+    {
+      "name": "Security",
+      "icon": "ShieldCheck",
+      "skills": [
+        { "name": "OAuth 2.0", "level": 85 },
+        { "name": "Keycloak SSO", "level": 84 },
+        { "name": "Role-Based Access Control (RBAC)", "level": 88 },
+        { "name": "Multi-tenant Authentication", "level": 82 },
+        { "name": "Route Guards", "level": 88 }
+      ]
+    },
+    {
+      "name": "Cloud, Testing & Tools",
+      "icon": "Cloud",
+      "skills": [
+        { "name": "AWS", "level": 80 },
+        { "name": "Git / GitHub", "level": 90 },
+        { "name": "Jasmine / Karma", "level": 82 },
+        { "name": "Agile / Scrum / Jira", "level": 88 },
+        { "name": "CI/CD Collaboration", "level": 80 }
+      ]
+    }
+  ],
+  "softSkills": [
+    "Frontend Architecture",
+    "Technical Mentorship",
+    "Sprint Planning & Estimation",
+    "Code Reviews",
+    "Cross-functional Collaboration",
+    "Ownership & Delivery"
+  ],
+  "radar": [
+    { "axis": "Frontend", "value": 95 },
+    { "axis": "Architecture", "value": 90 },
+    { "axis": "Performance", "value": 90 },
+    { "axis": "Backend", "value": 80 },
+    { "axis": "AI / GenAI", "value": 85 },
+    { "axis": "Security", "value": 85 }
+  ]
+}

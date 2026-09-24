@@ -1,0 +1,206 @@
+%PDF-1.4
+%ту╧╙
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5720 >>
+stream
+BT
+1 0 0 1 54.00 756.00 Tm
+/F2 20.00 Tf
+(PAWAN KUMAR) Tj
+1 0 0 1 54.00 732.00 Tm
+/F1 9.00 Tf
+(Senior Software Engineer | Frontend \(Angular . React . TypeScript\) | GenAI-Enabled Enterprise Platforms) Tj
+1 0 0 1 54.00 720.00 Tm
+(Bengaluru, India . +91-8770386489 . pkofficial000@gmail.com . linkedin.com/in/pawan-kumar-023735159) Tj
+1 0 0 1 54.00 696.00 Tm
+/F2 11.50 Tf
+(PROFESSIONAL SUMMARY) Tj
+1 0 0 1 54.00 680.00 Tm
+/F1 9.50 Tf
+(Senior Software Engineer with 7+ years of experience building scalable, enterprise-grade web applications with) Tj
+1 0 0 1 54.00 668.00 Tm
+(Angular, React, and TypeScript. Led frontend architecture for GenAI-powered life-sciences platforms, delivering) Tj
+1 0 0 1 54.00 656.00 Tm
+(reusable component libraries, real-time collaboration \(WebSocket\), MS Word Add-ins, and secure SSO/RBAC) Tj
+1 0 0 1 54.00 644.00 Tm
+(experiences. Proven record of improving performance \(40% faster load\), boosting delivery velocity \(25-30%\), and) Tj
+1 0 0 1 54.00 632.00 Tm
+(mentoring engineers in Agile teams. AWS Certified Cloud Practitioner.) Tj
+1 0 0 1 54.00 611.00 Tm
+/F2 11.50 Tf
+(TECHNICAL SKILLS) Tj
+1 0 0 1 54.00 595.00 Tm
+/F1 9.50 Tf
+(Frontend: Angular \(v8+\), React \(Hooks, Context API\), TypeScript, JavaScript \(ES6+\), RxJS, HTML5, CSS3/SCSS,) Tj
+1 0 0 1 54.00 583.00 Tm
+(Angular Material, Material UI, Bootstrap, Responsive Design) Tj
+1 0 0 1 54.00 568.00 Tm
+(Architecture & Performance: Micro-frontend-ready modular design, Reusable Component Libraries, Lazy Loading, State) Tj
+1 0 0 1 54.00 556.00 Tm
+(Management, Web Performance Optimization, Lighthouse, Chrome DevTools) Tj
+1 0 0 1 54.00 541.00 Tm
+(Backend & Databases: Node.js, Express.js, REST APIs, WebSocket, RabbitMQ, PostgreSQL, MySQL, Firebase) Tj
+1 0 0 1 54.00 526.00 Tm
+(AI & Integrations: GenAI/LLM-powered UI workflows, Quill, TinyMCE, Chart.js, ngx-graph, MS Office Add-ins \(Yeoman\)) Tj
+1 0 0 1 54.00 511.00 Tm
+(Security: OAuth 2.0, Keycloak SSO, Role-Based Access Control \(RBAC\), Multi-tenant Authentication, Route Guards) Tj
+1 0 0 1 54.00 496.00 Tm
+(Cloud, Testing & Tools: AWS, Git/GitHub, Jasmine, Karma, Agile/Scrum, Jira, Code Reviews, CI/CD collaboration) Tj
+1 0 0 1 54.00 475.00 Tm
+/F2 11.50 Tf
+(PROFESSIONAL EXPERIENCE) Tj
+1 0 0 1 54.00 459.00 Tm
+/F2 9.50 Tf
+(Senior Full Stack Engineer | Indegene Pvt Ltd, Bengaluru Jan 2020 - Present) Tj
+1 0 0 1 54.00 447.00 Tm
+/F1 9.50 Tf
+(Х  Architected a modular, enterprise-scale document authoring platform \(Angular\) with WYSIWYG editing, multilingual) Tj
+1 0 0 1 66.00 435.00 Tm
+(content, and export capabilities.) Tj
+1 0 0 1 54.00 423.00 Tm
+(Х  Reduced initial load time by 40%+ through lazy loading, bundle optimization, and Lighthouse/Chrome DevTools) Tj
+1 0 0 1 66.00 411.00 Tm
+(performance audits across modules.) Tj
+1 0 0 1 54.00 399.00 Tm
+(Х  Built shared modules and reusable component libraries, improving development velocity by 30%.) Tj
+1 0 0 1 54.00 387.00 Tm
+(Х  Applied advanced Angular patterns \(custom directives, dynamic forms, route guards, RxJS\) to deliver a maintainable) Tj
+1 0 0 1 66.00 375.00 Tm
+(enterprise platform.) Tj
+1 0 0 1 54.00 363.00 Tm
+(Х  Implemented RBAC and dynamic permission-based rendering; integrated Quill and TinyMCE with custom) Tj
+1 0 0 1 66.00 351.00 Tm
+(configurations.) Tj
+1 0 0 1 54.00 339.00 Tm
+(Х  Mentored junior developers; drove sprint planning, story estimation, and code reviews in an Agile/Scrum setup.) Tj
+1 0 0 1 54.00 322.00 Tm
+/F2 9.50 Tf
+(Software Trainee | Mountblue Technologies Aug 2019 - Dec 2019) Tj
+1 0 0 1 54.00 310.00 Tm
+/F1 9.50 Tf
+(Х  Built responsive React and Node.js projects, including a Trello-style task manager with drag-and-drop.) Tj
+1 0 0 1 54.00 298.00 Tm
+(Х  Practiced software engineering best practices in a fast-paced Agile environment.) Tj
+1 0 0 1 54.00 280.00 Tm
+/F2 11.50 Tf
+(KEY PROJECTS) Tj
+1 0 0 1 54.00 264.00 Tm
+/F2 9.50 Tf
+(Literature Surveillance \(LS\) - GenAI-powered medical literature platform | Angular, WebSocket, RabbitMQ) Tj
+1 0 0 1 54.00 252.00 Tm
+/F1 9.50 Tf
+(Х  Led frontend architecture and module-level scalability with full ownership of UI decisions.) Tj
+1 0 0 1 54.00 240.00 Tm
+(Х  Built reusable components, a Google Forms-style dynamic form builder, and a custom XML previewer for structured) Tj
+1 0 0 1 66.00 228.00 Tm
+(documents \(SRD/BMS\).) Tj
+1 0 0 1 54.00 216.00 Tm
+(Х  Engineered a Google Drive-like file manager using WebSocket and RabbitMQ for real-time uploads and distributed) Tj
+1 0 0 1 66.00 204.00 Tm
+(processing.) Tj
+1 0 0 1 54.00 192.00 Tm
+(Х  Implemented article scheduling and retrieval across PubMed, Embase, and other sources with metadata-driven) Tj
+1 0 0 1 66.00 180.00 Tm
+(search filters.) Tj
+1 0 0 1 54.00 168.00 Tm
+(Х  Integrated GenAI/ML pipelines for automated content extraction and document generation from shortlisted articles.) Tj
+1 0 0 1 54.00 151.00 Tm
+/F2 9.50 Tf
+(Medical Writing Platform \(MWP\) - Agent-based medical writing platform | React, Custom Hooks, MS Word Add-in) Tj
+1 0 0 1 54.00 139.00 Tm
+/F1 9.50 Tf
+(Х  Led frontend development of multiple React modules used in enterprise medical content workflows.) Tj
+1 0 0 1 54.00 127.00 Tm
+(Х  Built reusable React components and custom hooks, improving maintainability by 40% and cutting feature) Tj
+1 0 0 1 66.00 115.00 Tm
+(development time by 25%.) Tj
+1 0 0 1 54.00 103.00 Tm
+(Х  Developed a Microsoft Word Add-in \(React + Yeoman\) for in-document authoring, driving 35% higher user adoption.) Tj
+1 0 0 1 54.00 91.00 Tm
+(Х  Delivered context-aware Word UI for authoring and review scenarios, reducing manual effort by 20%.) Tj
+1 0 0 1 54.00 74.00 Tm
+/F2 9.50 Tf
+(Intelligent Content Lifecycle Management System \(ICMS\) - Angular, TinyMCE, Keycloak) Tj
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 7 0 R /F2 8 0 R >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 1613 >>
+stream
+BT
+1 0 0 1 54.00 756.00 Tm
+/F1 9.50 Tf
+(Х  Customized TinyMCE for rich-text authoring with inline commenting, version control, and AI-driven content) Tj
+1 0 0 1 66.00 744.00 Tm
+(suggestions.) Tj
+1 0 0 1 54.00 732.00 Tm
+(Х  Integrated WebSocket real-time collaboration and Chart.js dashboards for workflow and document tracking.) Tj
+1 0 0 1 54.00 720.00 Tm
+(Х  Implemented Keycloak OAuth 2.0 SSO, RBAC, and multi-tenant authentication; built lineage graphs with ngx-graph) Tj
+1 0 0 1 66.00 708.00 Tm
+(for audit trails.) Tj
+1 0 0 1 54.00 696.00 Tm
+(Х  Contributed to a scalable workflow engine with dynamic review stages and global time-zone handling.) Tj
+1 0 0 1 54.00 679.00 Tm
+/F2 9.50 Tf
+(Slack Clone \(Personal Project\) - React, Node.js, Firebase) Tj
+1 0 0 1 54.00 667.00 Tm
+/F1 9.50 Tf
+(Х  Real-time messaging app with Firebase Auth, channels, threads, typing indicators, and presence; responsive UI with) Tj
+1 0 0 1 66.00 655.00 Tm
+(Material UI.) Tj
+1 0 0 1 54.00 637.00 Tm
+/F2 11.50 Tf
+(EDUCATION) Tj
+1 0 0 1 54.00 621.00 Tm
+/F1 9.50 Tf
+(B.E. in Computer Science Engineering, NRI Institute of Information Science & Technology - 7.72 CGPA \(2019\)) Tj
+1 0 0 1 54.00 600.00 Tm
+/F2 11.50 Tf
+(CERTIFICATIONS & ACHIEVEMENTS) Tj
+1 0 0 1 54.00 584.00 Tm
+/F1 9.50 Tf
+(Х  AWS Certified Cloud Practitioner) Tj
+1 0 0 1 54.00 572.00 Tm
+(Х  HackerRank Problem Solving \(Basic\) - Sep 2020; JavaScript - FreeCodeCamp - Sep 2019) Tj
+1 0 0 1 54.00 560.00 Tm
+(Х  Winner, Code and Connect Hackathon 2025 - Indegene) Tj
+1 0 0 1 54.00 548.00 Tm
+(Х  Indegene awards: 'Hitting the Mark', 'Best Sprinter', 'Make It Happen') Tj
+ET
+endstream
+endobj
+7 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica /Encoding /WinAnsiEncoding >>
+endobj
+8 0 obj
+<< /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold /Encoding /WinAnsiEncoding >>
+endobj
+xref
+0 9
+0000000000 65535 f 
+0000000015 00000 n 
+0000000064 00000 n 
+0000000127 00000 n 
+0000000263 00000 n 
+0000006035 00000 n 
+0000006171 00000 n 
+0000007836 00000 n 
+0000007933 00000 n 
+trailer
+<< /Size 9 /Root 1 0 R >>
+startxref
+8035
+%%EOF

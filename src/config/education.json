@@ -1,0 +1,15 @@
+{
+  "intro": "Academic foundations.",
+  "degrees": [
+    {
+      "degree": "B.E. in Computer Science Engineering",
+      "institution": "NRI Institute of Information Science & Technology",
+      "location": "India",
+      "start": "2015",
+      "end": "2019",
+      "grade": "7.72 CGPA",
+      "honors": [],
+      "logo": "/images/logos/nri.svg"
+    }
+  ]
+}

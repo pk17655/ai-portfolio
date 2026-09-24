@@ -1,0 +1,39 @@
+{
+  "intro": "A chronological log of missions — the platforms, teams, and outcomes I've shipped.",
+  "jobs": [
+    {
+      "company": "Indegene Pvt Ltd",
+      "role": "Senior Full Stack Engineer",
+      "location": "Bengaluru, India",
+      "start": "Jan 2020",
+      "end": "Present",
+      "current": true,
+      "logo": "/images/logos/indegene.svg",
+      "summary": "Leading frontend architecture for GenAI-powered life-sciences platforms.",
+      "highlights": [
+        "Architected a modular, enterprise-scale document authoring platform (Angular) with WYSIWYG editing, multilingual content, and export capabilities.",
+        "Reduced initial load time by 40%+ through lazy loading, bundle optimization, and Lighthouse/Chrome DevTools performance audits across modules.",
+        "Built shared modules and reusable component libraries, improving development velocity by 30%.",
+        "Applied advanced Angular patterns (custom directives, dynamic forms, route guards, RxJS) to deliver a maintainable enterprise platform.",
+        "Implemented RBAC and dynamic permission-based rendering; integrated Quill and TinyMCE with custom configurations.",
+        "Mentored junior developers; drove sprint planning, story estimation, and code reviews in an Agile/Scrum setup."
+      ],
+      "stack": ["Angular", "TypeScript", "RxJS", "React", "WebSocket", "RabbitMQ", "TinyMCE", "Keycloak"]
+    },
+    {
+      "company": "Mountblue Technologies",
+      "role": "Software Trainee",
+      "location": "Bengaluru, India",
+      "start": "Aug 2019",
+      "end": "Dec 2019",
+      "current": false,
+      "logo": "/images/logos/mountblue.svg",
+      "summary": "Intensive full-stack engineering apprenticeship in an Agile environment.",
+      "highlights": [
+        "Built responsive React and Node.js projects, including a Trello-style task manager with drag-and-drop.",
+        "Practiced software engineering best practices in a fast-paced Agile environment."
+      ],
+      "stack": ["React", "Node.js", "JavaScript", "Express.js"]
+    }
+  ]
+}

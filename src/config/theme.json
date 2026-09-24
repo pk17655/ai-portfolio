@@ -1,0 +1,58 @@
+{
+  "brand": "PK",
+  "colors": {
+    "dark": {
+      "bg": "#05070f",
+      "bgAlt": "#0a0e1a",
+      "surface": "#0e1424",
+      "surfaceAlt": "#131b30",
+      "border": "#1e2a44",
+      "text": "#e6ecff",
+      "textMuted": "#8a97b8",
+      "primary": "#22d3ee",
+      "secondary": "#7c3aed",
+      "accent": "#38bdf8",
+      "glow": "#22d3ee"
+    },
+    "light": {
+      "bg": "#eef2fb",
+      "bgAlt": "#e4e9f6",
+      "surface": "#ffffff",
+      "surfaceAlt": "#f3f6ff",
+      "border": "#cdd8ef",
+      "text": "#0b1220",
+      "textMuted": "#4a5678",
+      "primary": "#0891b2",
+      "secondary": "#7c3aed",
+      "accent": "#2563eb",
+      "glow": "#0891b2"
+    }
+  },
+  "animation": {
+    "speed": "normal",
+    "presets": {
+      "slow": 1.4,
+      "normal": 1,
+      "fast": 0.6
+    }
+  },
+  "flags": {
+    "enableParticles": true,
+    "enable3DRobot": true,
+    "enableCustomCursor": true,
+    "enableSplashScreen": true,
+    "enableTypingEffect": true,
+    "enableCircuitBackground": true,
+    "defaultTheme": "dark"
+  },
+  "splash": {
+    "durationMs": 2600,
+    "messages": [
+      "Booting neural core...",
+      "Loading modules...",
+      "Calibrating interface...",
+      "Establishing link...",
+      "System online."
+    ]
+  }
+}

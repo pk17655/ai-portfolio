@@ -1,0 +1,72 @@
+{
+  "intro": "Selected builds — enterprise GenAI platforms and personal experiments.",
+  "categories": ["All", "GenAI", "Enterprise", "Frontend", "Full Stack"],
+  "items": [
+    {
+      "title": "Literature Surveillance (LS)",
+      "subtitle": "GenAI-powered medical literature platform",
+      "category": ["GenAI", "Enterprise", "Frontend"],
+      "featured": true,
+      "description": "Led frontend architecture and module-level scalability with full ownership of UI decisions for a GenAI-powered medical literature surveillance platform.",
+      "highlights": [
+        "Built reusable components, a Google Forms-style dynamic form builder, and a custom XML previewer for structured documents (SRD/BMS).",
+        "Engineered a Google Drive-like file manager using WebSocket and RabbitMQ for real-time uploads and distributed processing.",
+        "Implemented article scheduling and retrieval across PubMed, Embase, and other sources with metadata-driven search filters.",
+        "Integrated GenAI/ML pipelines for automated content extraction and document generation from shortlisted articles."
+      ],
+      "stack": ["Angular", "TypeScript", "WebSocket", "RabbitMQ", "GenAI"],
+      "image": "/images/projects/ls.svg",
+      "liveUrl": "",
+      "repoUrl": ""
+    },
+    {
+      "title": "Medical Writing Platform (MWP)",
+      "subtitle": "Agent-based medical writing platform",
+      "category": ["GenAI", "Enterprise", "Frontend"],
+      "featured": true,
+      "description": "Led frontend development of multiple React modules used in enterprise medical content workflows, including a Microsoft Word Add-in for in-document authoring.",
+      "highlights": [
+        "Built reusable React components and custom hooks, improving maintainability by 40% and cutting feature development time by 25%.",
+        "Developed a Microsoft Word Add-in (React + Yeoman) for in-document authoring, driving 35% higher user adoption.",
+        "Delivered context-aware Word UI for authoring and review scenarios, reducing manual effort by 20%."
+      ],
+      "stack": ["React", "Custom Hooks", "MS Word Add-in", "Yeoman"],
+      "image": "/images/projects/mwp.svg",
+      "liveUrl": "",
+      "repoUrl": ""
+    },
+    {
+      "title": "Intelligent Content Lifecycle Management (ICMS)",
+      "subtitle": "Content lifecycle & workflow platform",
+      "category": ["Enterprise", "Frontend"],
+      "featured": true,
+      "description": "Customized rich-text authoring with AI-driven content suggestions, real-time collaboration, SSO, and audit lineage graphs for a scalable workflow engine.",
+      "highlights": [
+        "Customized TinyMCE for rich-text authoring with inline commenting, version control, and AI-driven content suggestions.",
+        "Integrated WebSocket real-time collaboration and Chart.js dashboards for workflow and document tracking.",
+        "Implemented Keycloak OAuth 2.0 SSO, RBAC, and multi-tenant authentication; built lineage graphs with ngx-graph for audit trails.",
+        "Contributed to a scalable workflow engine with dynamic review stages and global time-zone handling."
+      ],
+      "stack": ["Angular", "TinyMCE", "Keycloak", "WebSocket", "Chart.js", "ngx-graph"],
+      "image": "/images/projects/icms.svg",
+      "liveUrl": "",
+      "repoUrl": ""
+    },
+    {
+      "title": "Slack Clone",
+      "subtitle": "Real-time messaging app (personal project)",
+      "category": ["Full Stack", "Frontend"],
+      "featured": false,
+      "description": "Real-time messaging app with Firebase Auth, channels, threads, typing indicators, and presence; responsive UI with Material UI.",
+      "highlights": [
+        "Real-time channels, threads, typing indicators, and presence.",
+        "Firebase Authentication and Firestore for live data sync.",
+        "Responsive, component-driven UI with Material UI."
+      ],
+      "stack": ["React", "Node.js", "Firebase", "Material UI"],
+      "image": "/images/projects/slack.svg",
+      "liveUrl": "",
+      "repoUrl": ""
+    }
+  ]
+}

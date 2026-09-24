@@ -1,0 +1,51 @@
+{
+  "name": "Pawan Kumar",
+  "firstName": "Pawan",
+  "title": "Senior Software Engineer",
+  "roles": [
+    "Senior Software Engineer",
+    "Frontend Architect",
+    "Angular · React · TypeScript",
+    "GenAI-Enabled Platforms Builder"
+  ],
+  "tagline": "I architect scalable, GenAI-powered enterprise interfaces.",
+  "heroLines": [
+    "Initializing sentient interface...",
+    "7+ years engineering enterprise-grade web platforms.",
+    "Angular · React · TypeScript · GenAI."
+  ],
+  "bio": "Senior Software Engineer with 7+ years of experience building scalable, enterprise-grade web applications with Angular, React, and TypeScript. I lead frontend architecture for GenAI-powered life-sciences platforms — delivering reusable component libraries, real-time collaboration over WebSocket, MS Word Add-ins, and secure SSO/RBAC experiences. I have a proven record of improving performance (40% faster load), boosting delivery velocity (25–30%), and mentoring engineers in Agile teams.",
+  "shortBio": "Frontend-focused full-stack engineer specializing in enterprise GenAI platforms, performance, and reusable architecture.",
+  "location": "Bengaluru, India",
+  "availability": "Open to Senior / Lead Frontend roles",
+  "availabilityStatus": "online",
+  "contact": {
+    "email": "pkofficial000@gmail.com",
+    "phone": "+91-8770386489"
+  },
+  "social": [
+    {
+      "label": "LinkedIn",
+      "icon": "Linkedin",
+      "url": "https://linkedin.com/in/pawan-kumar-023735159"
+    },
+    {
+      "label": "GitHub",
+      "icon": "Github",
+      "url": "https://github.com/"
+    },
+    {
+      "label": "Email",
+      "icon": "Mail",
+      "url": "mailto:pkofficial000@gmail.com"
+    }
+  ],
+  "resumePdf": "/resume/Pawan_Kumar_Resume_2026.pdf",
+  "profilePhoto": "/images/profile.jpg",
+  "stats": [
+    { "label": "Years of Experience", "value": 7, "suffix": "+" },
+    { "label": "Enterprise Platforms Shipped", "value": 4, "suffix": "" },
+    { "label": "Faster Initial Load", "value": 40, "suffix": "%" },
+    { "label": "Delivery Velocity Gain", "value": 30, "suffix": "%" }
+  ]
+}

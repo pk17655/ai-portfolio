@@ -1,0 +1,48 @@
+{
+  "intro": "Credentials and recognitions.",
+  "certifications": [
+    {
+      "name": "AWS Certified Cloud Practitioner",
+      "issuer": "Amazon Web Services",
+      "date": "",
+      "credentialUrl": "",
+      "icon": "Cloud"
+    },
+    {
+      "name": "Problem Solving (Basic)",
+      "issuer": "HackerRank",
+      "date": "Sep 2020",
+      "credentialUrl": "",
+      "icon": "Terminal"
+    },
+    {
+      "name": "JavaScript Algorithms & Data Structures",
+      "issuer": "freeCodeCamp",
+      "date": "Sep 2019",
+      "credentialUrl": "",
+      "icon": "Braces"
+    }
+  ],
+  "achievements": [
+    {
+      "name": "Winner, Code and Connect Hackathon 2025",
+      "issuer": "Indegene",
+      "icon": "Trophy"
+    },
+    {
+      "name": "Award: 'Hitting the Mark'",
+      "issuer": "Indegene",
+      "icon": "Target"
+    },
+    {
+      "name": "Award: 'Best Sprinter'",
+      "issuer": "Indegene",
+      "icon": "Zap"
+    },
+    {
+      "name": "Award: 'Make It Happen'",
+      "issuer": "Indegene",
+      "icon": "Rocket"
+    }
+  ]
+}
