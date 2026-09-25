@@ -6,6 +6,7 @@ import theme from '@/config/theme.json'
 import TypingText from '@/components/TypingText'
 import MagneticButton from '@/components/MagneticButton'
 import SocialLinks from '@/components/SocialLinks'
+import VoiceSummary from '@/components/VoiceSummary'
 import CircuitBackground from '@/components/CircuitBackground'
 import OrbFallback from '@/components/OrbFallback'
 import ErrorBoundary from '@/components/ErrorBoundary'
@@ -55,12 +56,16 @@ export default function Hero() {
             {personal.title}
           </p>
 
-          <h1 className="h-display font-bold text-content">
-            {personal.firstName}{' '}
-            <span className="gradient-text animate-gradient-x">
-              {personal.name.split(' ').slice(1).join(' ')}
-            </span>
-          </h1>
+          <div className="flex flex-wrap items-center gap-x-4 gap-y-2">
+            <h1 className="h-display font-bold text-content">
+              {personal.firstName}{' '}
+              <span className="gradient-text animate-gradient-x">
+                {personal.name.split(' ').slice(1).join(' ')}
+              </span>
+            </h1>
+            {/* Listen to the profile summary in a robotic voice */}
+            <VoiceSummary text={personal.bio} label="profile summary" />
+          </div>
 
           {/* Typing roles */}
           <div className="mt-4 h-8 font-mono text-lg text-muted sm:text-xl">
